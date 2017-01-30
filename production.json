@@ -1,5 +1,8 @@
 {
   "rulesets": {
+    "room-group": {
+      "uuid": "73618d18-25cc-4ed2-a082-11fd5817c19d"
+    },
     "user-group": {
       "uuid": "336aebda-7f70-458c-9441-3209cd033928"
     }
