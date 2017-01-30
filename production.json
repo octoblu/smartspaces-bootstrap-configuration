@@ -8,6 +8,9 @@
     },
     "skype-group": {
       "uuid": "efedb679-c748-4225-b310-0c3bf23c5b99"
+    },
+    "hue-button-group": {
+      "uuid": "9cf5465a-386b-4c3c-8788-366b66a800f6"
     }
   }
 }
