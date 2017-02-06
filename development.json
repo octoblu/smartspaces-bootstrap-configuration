@@ -1,15 +1,15 @@
 {
   "rulesets": {
-    "room-group": {
+    "roomGroup": {
       "uuid": "4a9991a0-b5d7-42ff-bc10-b3fd8b3a32dd"
     },
-    "user-group": {
+    "userGroup": {
       "uuid": "a9678d72-40c7-477e-acf1-b87175908f43"
     },
-    "skype-group": {
+    "skypeGroup": {
       "uuid": "4f9f0a77-9660-4180-bcee-1778b068aa38"
     },
-    "hue-button-group": {
+    "hueButtonGroup": {
       "uuid": "a721fe69-dd66-482b-b0e1-0cbc29a6b015"
     }
   }
