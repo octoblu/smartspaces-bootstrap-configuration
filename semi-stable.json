@@ -1,0 +1,16 @@
+{
+  "rulesets": {
+    "hueButtonGroup": {
+      "uuid": "a329bae9-192f-4eb9-9e6d-1bcc91bcb9b7"
+    },
+    "roomGroup": {
+      "uuid": "7d87ceae-f99e-48e8-8719-80b935748006"
+    },
+    "skypeGroup": {
+      "uuid": "d91689d6-b527-4ee4-b916-f0d0165412eb"
+    },
+    "userGroup": {
+      "uuid": "8855d057-6d33-4221-bd52-c7c716c61c5f"
+    }
+  }
+}
