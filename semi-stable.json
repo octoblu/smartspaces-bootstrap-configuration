@@ -1,16 +1,16 @@
 {
   "rulesets": {
     "hueButtonGroup": {
-      "uuid": "a329bae9-192f-4eb9-9e6d-1bcc91bcb9b7"
+      "uuid": "d0f04d0f-0205-4c34-b58b-22ba2d7852a8"
     },
     "roomGroup": {
-      "uuid": "7d87ceae-f99e-48e8-8719-80b935748006"
+      "uuid": "2b7d106b-5624-42df-8991-04381287e717"
     },
     "skypeGroup": {
-      "uuid": "d91689d6-b527-4ee4-b916-f0d0165412eb"
+      "uuid": "e804e4f4-0e7d-43a8-9f4c-1df5c29cac24"
     },
     "userGroup": {
-      "uuid": "8855d057-6d33-4221-bd52-c7c716c61c5f"
+      "uuid": "b2a1de96-f1a9-4f7f-9b8d-a2769d09ceb3"
     }
   }
 }
