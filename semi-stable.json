@@ -1,5 +1,8 @@
 {
   "rulesets": {
+    "activitiesGroup": {
+      "uuid": "56151feb-dbc0-45f9-87e3-3df84f6806ae"
+    },
     "hueButtonGroup": {
       "uuid": "d0f04d0f-0205-4c34-b58b-22ba2d7852a8"
     },

@@ -1,5 +1,8 @@
 {
   "rulesets": {
+    "activitiesGroup": {
+      "uuid": "90db34c6-90df-4ffd-bd95-3f74ecf9df2f"
+    },
     "roomGroup": {
       "uuid": "a1ca5c36-7abe-4f4e-925b-733b7b78914d"
     },
