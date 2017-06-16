@@ -6,6 +6,10 @@
     "roomGroup": {
       "uuid": "2b7d106b-5624-42df-8991-04381287e717"
     },
+    ,
+    "roomStatus": {
+      "uuid": "599dfeea-28b9-42b0-94e8-30dec80ffb4d"
+    },
     "skypeGroup": {
       "uuid": "e804e4f4-0e7d-43a8-9f4c-1df5c29cac24"
     },
