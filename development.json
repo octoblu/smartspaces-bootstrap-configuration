@@ -3,6 +3,9 @@
     "roomGroup": {
       "uuid": "a1ca5c36-7abe-4f4e-925b-733b7b78914d"
     },
+    "roomStatus": {
+      "uuid": "599dfeea-28b9-42b0-94e8-30dec80ffb4d"
+    },
     "userGroup": {
       "uuid": "65a0aa5b-98be-4ae9-855c-8b360d34c3a6"
     },
